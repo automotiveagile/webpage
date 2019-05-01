@@ -4,4 +4,22 @@
 
 In the last couple of years, the Manifesto for Agile Software Development became the guideline for almost all software development projects. Looking towards development for Web or mobile Applications, Backend Services (Clouds), you'll probably find no classic project management anymore. Upfront project planning simply doesn't work for software development and was abandoned for the sake of incremental-iterative work models (we simply call them today "agile").
 
-But not in Automotive. Automotive (embedded) software development still clamps to the waterfall project management. The main reason to stick with waterfall processes is the believe that the software is "finished" at some point of time: Start of production (SOP). If you have some sort of car control unit, it is developed, built and delivered before the car hits production. Continous updates and bug fixes are not possible or very expensive. You have no "DevOps" or even "Ops", the software is in field and can't be patched or fixed anymore (or only by workshop updates and car recalls).
+But not in Automotive. Automotive (embedded) software development still clamps to the waterfall project management. The main reason to stick with waterfall processes is the believe that the software is "finished" at some point of time: Start of production (SOP). If you have some sort of car control unit, it is developed, built and delivered before the car hits production. Continuos updates and bug fixes are not possible or very expensive. You have no "DevOps" or even "Ops", the software is in field and can't be patched or fixed anymore (or only by workshop updates and car recalls).
+
+But the world is changing, the software is getting more complex, connected and has to be updated in the field. Customers have the same expectations of the software a in a car as of their smartphone applications. And in the same time quality of the software is more important than tons of features: Apps shouldn't crash, they have to work fast and serve  customer needs. 
+
+### Misunderstanding of what "Agile" means in Automotive Market
+
+Often people use the word "agile" to describe they project: Abandoning all processes, developing in a chaotic manner, almost no planning and barely documented work products. Somehow "Agile" became the opposite to "project management" and synonym for "bad quality".
+
+Also the manifesto of agile software development is interpreted in wrong way:
+
+> Individuals and interactions over processes and tools
+
+Doesn't imply you can remove all processes. People, communication and collaboration are more important than defined processes. Ans maybe those people have to modify some process to work better. It means processes are not "rigid rules" and have to be pursued by "process police". And by the way: Scrum is a process and a very strict one.
+
+> Working software over comprehensive documentation
+
+> Customer collaboration over contract negotiation
+
+> Responding to change over following a plan
