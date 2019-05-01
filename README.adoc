@@ -1,6 +1,6 @@
-# Automotive Agile
+== Automotive Agile
 
-## Why? Reasons for Automotive Agile
+=== Why? Reasons for Automotive Agile
 
 In the last couple of years, the Manifesto for Agile Software Development became the guideline for almost all software development projects. Looking towards development for Web or mobile Applications, Backend Services (Clouds), you'll probably find no classic project management anymore. Upfront project planning simply doesn't work for software development and was abandoned for the sake of incremental-iterative work models (we simply call them today "agile").
 
@@ -8,7 +8,7 @@ But not in Automotive. Automotive (embedded) software development still clamps t
 
 But the world is changing, the software is getting more complex, connected and has to be updated in the field. Customers have the same expectations of the software a in a car as of their smartphone applications. And in the same time quality of the software is more important than tons of features: Apps shouldn't crash, they have to work fast and serve  customer needs. 
 
-### Misunderstanding of what "Agile" means in Automotive Market
+==== Misunderstanding of what "Agile" means in Automotive Market
 
 Often people use the word "agile" to describe they project: Abandoning all processes, developing in a chaotic manner, almost no planning and barely documented work products. Somehow "Agile" became the opposite to "project management" and synonym for "bad quality".
 
