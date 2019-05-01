@@ -52,6 +52,8 @@ To keep the design documentation tight to the implementation, any graphical tool
 | PlantUML              | Sequence, Component, Class, State, Use Case, Activity, Mindmap
 |===========================================
 
+Asciidoctor has a plugin for diagrams: https://asciidoctor.org/docs/asciidoctor-diagram/
+
 === Documenting code
 
 There at least two major tools for documenting the code. Doxygen is widely used for C/C++ and Sphinx for Python code. Sphinx can also scan C++ sources by using Breathe, which provides the bridge from Doxygen to Sphinx (yes, you have to install Doxygen).

@@ -3,6 +3,8 @@ Leonid Lezner <info@automotiveagile.org>
 :toc:
 :numbered:
 
+Automotive Agile is a guideline for agile software development for automotive projects. Automotive Agile is based on agile principles and Automotive SPICE (ASPICE).
+
 == Why? Reasons for Automotive Agile
 
 In the last couple of years, the Manifesto for Agile Software Development became the guideline for almost all software development projects. Looking towards development for Web or mobile Applications, Backend Services (Clouds), you'll probably find no classic project management anymore. Upfront project planning simply doesn't work for software development and was abandoned for the sake of incremental-iterative work models (we simply call them today "agile").
