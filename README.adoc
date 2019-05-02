@@ -25,6 +25,8 @@ Doesn't imply you can remove all processes. People, communication and collaborat
 
 > Working software over comprehensive documentation
 
+Software quality __is__ more important that documentation. No product will be better just by having tons of requirement and architecture documents. Nevertheless having documentation helps to maintain the Software, to work with other people and to provide a documentation to users of the software. The purpose of documentation is improving the quality, not making some ASPICE assessor happy.
+
 > Customer collaboration over contract negotiation
 
 > Responding to change over following a plan
