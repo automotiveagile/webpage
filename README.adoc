@@ -5,7 +5,7 @@ Leonid Lezner <info@automotiveagile.org>
 
 Automotive Agile is a guideline for agile software development for automotive projects. Automotive Agile is based on agile principles and Automotive SPICE (ASPICE).
 
-== Why? Reasons for Automotive Agile
+== Why: Reasons for Automotive Agile
 
 In the last couple of years, the Manifesto for Agile Software Development became the guideline for almost all software development projects. Looking towards development for Web or mobile Applications, Backend Services (Clouds), you'll probably find no classic project management anymore. Upfront project planning simply doesn't work for software development and was abandoned for the sake of incremental-iterative work models (we simply call them today "agile").
 
@@ -25,9 +25,43 @@ Doesn't imply you can remove all processes. People, communication and collaborat
 
 > Working software over comprehensive documentation
 
-Software quality __is__ more important that documentation. No product will be better just by having tons of requirement and architecture documents. Nevertheless having documentation helps to maintain the Software, to work with other people and to provide a documentation to users of the software. The purpose of documentation is improving the quality, not making some ASPICE assessor happy.
+Software quality __is__ more important that documentation. No product will be better just by having tons of requirement and architecture documents. Nevertheless having documentation helps to maintain the Software, to work with other people and to provide a documentation to users of the software. The purpose of documentation is improving the quality, not making the ASPICE assessor happy.
 
 > Customer collaboration over contract negotiation
 
+tbd
+
 > Responding to change over following a plan
+
+tbd
+
+=== Misunderstanding what ASPICE means for development
+
+tbd
+
+== How: Taking the best of both worlds
+
+tbd
+
+== What: Guidelines for Automotive Agile
+
+=== Base process
+
+tbd
+
+=== V-Model inside
+
+tbd
+
+=== Lean documentation
+
+tbd
+
+=== Test driven development
+
+tbd
+
+=== Test as documentation
+
+tbd
 
