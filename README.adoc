@@ -3,7 +3,15 @@ Leonid Lezner <info@automotiveagile.org>
 :toc:
 :numbered:
 
+.DRAFT
+****
+This document is only a rough draft.
+****
+
+[abstract]
+--
 Automotive Agile is a guideline for agile software development for automotive projects. Automotive Agile is based on agile principles and Automotive SPICE (ASPICE).
+--
 
 == Why: Reasons for Automotive Agile
 
@@ -35,33 +43,33 @@ tbd
 
 tbd
 
-=== Misunderstanding what ASPICE means for development
+=== Misunderstanding what ASPICE means for development [Draft]
 
 tbd
 
-== How: Taking the best of both worlds
+== How: Taking the best of both worlds [Draft]
 
 tbd
 
-== What: Guidelines for Automotive Agile
+== What: Guidelines for Automotive Agile [Draft]
 
-=== Base process
-
-tbd
-
-=== V-Model inside
+=== Base process [Draft]
 
 tbd
 
-=== Lean documentation
+=== V-Model inside [Draft]
 
 tbd
 
-=== Test driven development
+=== Lean documentation [Draft]
 
 tbd
 
-=== Test as documentation
+=== Test driven development [Draft]
+
+tbd
+
+=== Test as documentation [Draft]
 
 tbd
 
